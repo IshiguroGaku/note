@@ -2,7 +2,7 @@
 
 ## 概要
 
-https://rubykaigi.org/2019
+[https://rubykaigi.org/2019](https://rubykaigi.org/2019)
 
 ### 期間
 
