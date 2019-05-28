@@ -1,16 +1,20 @@
 # Rubykaigi2019
 
 ## 概要
+
 https://rubykaigi.org/2019
 
 ### 期間
+
 2019/4/18(木) ~ 2019/4/20(土)
 
 ### 会場
+
 福岡国際会議場
 ![](images/IMG_3606.jpg)
 
 ### 参加者・スポンサー
+
 | ![](images/IMG_4632.jpg) | ![](images/IMG_8719.jpg) |
 |-|-|
 | ![](images/IMG_7206.jpg) | ![](images/IMG_0059.jpg) |
@@ -18,9 +22,6 @@ https://rubykaigi.org/2019
 ## 内容
 
 ### セッション
-#### 冒頭
-
-
 
 #### 基調講演
 
